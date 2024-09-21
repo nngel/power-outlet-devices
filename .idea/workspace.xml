@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c00eacf-b539-4fef-b3ea-0b85c278cb23" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/softeng/adapterPattern/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/softeng/adapterPattern/LaptopAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/softeng/adapterPattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/softeng/adapterPattern/PowerOutlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/softeng/adapterPattern/Refrigerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/softeng/adapterPattern/RefrigeratorAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/softeng/adapterPattern/SmartphoneAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/softeng/adapterPattern/SmartphoneCharger.java" afterDir="false" />
+    <list default="true" id="8c00eacf-b539-4fef-b3ea-0b85c278cb23" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/assets/uml_diagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/uml_diagrams.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +20,8 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="editable-svg" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,17 +53,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/lo/IdeaProjects/adapterPatternLA3/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Settings.DiagramsNet.Preview",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726902701880</updated>
-      <workItem from="1726902703176" duration="1484000" />
+      <workItem from="1726902703176" duration="6709000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -94,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726903347608</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done">
+      <option name="closed" value="true" />
+      <created>1726904278559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726904278559</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +115,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
